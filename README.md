@@ -1,3 +1,5 @@
+# DATE :
+# EXP NO : 11
 # Copy-File
 ## AIM:
 To write a python program for copying the contents from one file to another file.
@@ -16,8 +18,8 @@ Copy the content of text file to empty file using write function.
 
 ## PROGRAM:
 ```
-#Developed by: STEPHEN RAJ.Y
-#Register Number: 212223230217
+#Developed by: VIRUMAA HARISH M
+#Register Number: 212223230246
 with open("text1.txt","r") as fp:
     msg1=fp.read()
 with open("copytxt","w") as fp1:
